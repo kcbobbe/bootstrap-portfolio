@@ -1,0 +1,47 @@
+/* navbar-header: entire header */
+/* navbar-brand: Katie Bobbe block */
+/* page-title: about me, portfolio, contact on top of pages */
+/* main-content: content box below title */
+
+body {
+  background-image: url("../images/spikes.png");
+  background-repeat: repeat;
+}
+
+.main-content {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background-color: #eeeeee;
+  border: 3px solid #cccccc;
+}
+
+.page-title {
+  color: #4aaaa5;
+  margin-top: 20px;
+}
+
+.navbar-header {
+  background-color: #dddddd;
+  border-bottom: 3px solid #cccccc;
+}
+
+.nav-link {
+  color: #777777;
+}
+
+.navbar-brand {
+  color: white;
+  width: 100%;
+  text-align:center;
+}
+
+.brand-background {
+  background-color: #4aaaa5;
+}
+
+footer{
+  background-color: #dddddd;
+  border-top: 3px solid #cccccc;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
