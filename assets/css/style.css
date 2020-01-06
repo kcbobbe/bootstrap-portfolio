@@ -22,7 +22,7 @@ body {
 
 .navbar-header {
   background-color: #dddddd;
-  border-bottom: 3px solid #cccccc;
+  border-bottom: 3px solid #4aaaa5;
 }
 
 .nav-link {
@@ -40,8 +40,8 @@ body {
 }
 
 footer{
-  background-color: #dddddd;
-  border-top: 3px solid #cccccc;
+  background-color: #777777;
+  border-top: 5px solid #4aaaa5;
   padding-top: 1rem;
   padding-bottom: 1rem;
 }
