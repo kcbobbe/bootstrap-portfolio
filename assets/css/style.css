@@ -40,16 +40,12 @@ body {
   font-family: 'Georgia', Times, 'Times New Roman', serif;
 }
 
-.navbar-brand {
-  /* font-size:28px !important; */
-}
-
 .brand-background {
   background-color: #4aaaa5;
 }
 
 .about-me {
-  margin: 2rem;
+  margin: 2em;
 }
 
 
